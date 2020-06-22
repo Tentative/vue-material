@@ -4,7 +4,7 @@ import MdTheme from 'core/MdTheme'
 
 const init = () => {
   let material = new MdReactive({
-    ripple: true,
+    ripple: false,
     theming: {},
     locale: {
       startYear: 1900,
